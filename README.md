@@ -1,2 +1,2 @@
 # GssocDemo
-This is a demo for the workshop regarding open-source and GSSOC.
+This is a demo repository for the workshop regarding open-source and GSSOC.
